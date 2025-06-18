@@ -1,0 +1,18 @@
+{
+  "reset_network": [
+    "My internet is not working",
+    "Wi-Fi keeps disconnecting",
+    "Network adapter isn't working",
+    "who am i"
+  ],
+  "restart_explorer": [
+    "My taskbar disappeared",
+    "Start button is frozen",
+    "Windows UI is not responding"
+  ],
+  "clear_temp": [
+    "Clear temporary files",
+    "Free up space",
+    "Delete cache"
+  ]
+}
